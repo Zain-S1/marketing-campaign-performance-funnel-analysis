@@ -1,5 +1,3 @@
-# : Zain-S1
-
 def caesarCipher(s, k):
     # Write your code here
     lower = "abcdefghijklmnopqrstuvwxyz"
