@@ -1,3 +1,5 @@
+# : Zain-S1
+
 def timeConversion(s):
     
     if s[0:2] == "12" and s[8:] == "AM":
