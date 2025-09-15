@@ -1,5 +1,3 @@
-# : Zain-S1
-
 def DayOfProgrammer(year):
     if year == 1918:
         return "26.09.1918"
