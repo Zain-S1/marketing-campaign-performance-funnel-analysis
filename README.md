@@ -1,24 +1,24 @@
-# Customer Churn Risk Analysis
+# Marketing Campaign Performance & Funnel Analysis
 
 ## 📊 Overview
-This project analyzes customer churn patterns to identify high-risk segments and quantify revenue exposure.
-The objective is to design a decision-focused Business Intelligence dashboard that supports retention strategy and risk prioritization.
+This project analyzes marketing campaign performance through a funnel-based approach to understand how users progress from impressions to purchases. The objective is to design a decision-focused Business Intelligence dashboard that highlights performance gaps, campaign efficiency, and opportunities for optimization.
 
 The analysis combines exploratory data analysis, feature engineering, and KPI-driven dashboard design to translate churn insights into actionable business intelligence.
 
 ## 🎯 Business Objective
-* Measure overall churn rate and revenue at risk
-* Identify the strongest churn drivers
-* Segment customers based on behavioral risk indicators
-* Prioritize retention efforts using data-driven insights
+* Measure campaign performance across the full marketing funnel
+* Identify conversion drop-offs between funnel stages
+* Evaluate campaign efficiency using cost per acquisition (CPA)
+* Compare campaign types to highlight performance differences
+* Explore budget reallocation scenarios to improve efficiency
 
 ## 🔎 Key Insights
-* Churn risk is significantly higher among **inactive customers**.
-* Customers with a **single product** show elevated churn probability.
-* **High-value customers** represent substantial financial exposure when churn occurs.
-* Revenue at risk is most concentrated in **Germany**.
-* Risk segments combining behavioral indicators provide stronger prioritization than standalone demographics.
+* The largest funnel drop occurs between the **impression and click stages**, indicating engagement as the primary conversion bottleneck.
+* Campaign efficiency varies significantly **both across and within campaign types**, suggesting opportunities to optimize budget allocation.
+* Certain campaigns achieve substantially lower CPA, demonstrating the potential for efficiency gains through targeted budget redistribution.
+* Conversion trends over time directly influence overall purchase volume, highlighting the importance of maintaining consistent engagement performance.
 
 ## 📈 Outcome
-The final dashboard provides a clear view of churn concentration, financial exposure, and actionable customer segments, enabling targeted retention strategies and executive-level monitoring.
+The final dashboard provides a structured view of marketing funnel performance, campaign efficiency distribution, and performance trends over time.
 
+By combining funnel analysis, efficiency benchmarking, and scenario-based budget simulation, the dashboard enables data-driven campaign evaluation and supports more effective resource allocation decisions.
